@@ -9,7 +9,7 @@ Each entry below includes a short description and a link to the dedicated reposi
 **About**:  
 This project is a chess engine that uses parallelization and the minimax algorithm to find the best possible move.
 **Repository**:  
-[SentinelMind]((https://github.com/Its1akub/SentinelMind.git))  
+[SentinelMind](https://github.com/Its1akub/SentinelMind.git)  
 
 
 ### BugTracker (database project)  **D1**
